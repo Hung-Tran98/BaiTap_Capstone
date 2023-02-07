@@ -2121,14 +2121,7 @@ button.mfp-close {
 .footer__main .footer__list ul li p {
   font-weight: normal;
   font-size: 16px;
-  color: var(--para-color);
-  line-height: 28px;
-}
-.footer__main .footer__list ul li a,
-.footer__main .footer__list ul li p {
-  font-weight: normal;
-  font-size: 16px;
-  color: var(--para-color);
+  color: var(--font-color);
   line-height: 28px;
 }
 .footer__main .footer__list ul li:last-child {
@@ -2167,7 +2160,7 @@ button.mfp-close {
   font-weight: normal;
   font-size: 16px;
   line-height: 28px;
-  color: var(--para-color);
+  color: var(--font-color);
   margin-bottom: 0;
 }
 
