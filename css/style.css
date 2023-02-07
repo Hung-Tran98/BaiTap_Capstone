@@ -10,7 +10,18 @@ body {
   line-height: 1.15;
   color: #696969;
 }
-
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+    color: var(--heading-color);
+    font-family: 'Jost', sans-serif;
+    font-weight: 600;
+}
 /* FRICING */
 
 .plans {
